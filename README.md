@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Console Project**
 
-- 🌱 I’m currently learning **Python, ML, etc**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/morteza-taghizadeh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="morteza-taghizadeh" height="30" width="40" /></a>
