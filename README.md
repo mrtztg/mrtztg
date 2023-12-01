@@ -2,8 +2,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtztg" alt="mrtztg" /></a> </p>
 
-- 🔭 I’m currently working on [Console](https://play.google.com/store/apps/details?id=com.consoleco.console)
-
 - 💬 Ask me about **Golang, Python, Java**
 
 <h3 align="left">Connect with me:</h3>
