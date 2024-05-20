@@ -1,20 +1,49 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hi there, I'm Morteza 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtztg" alt="mrtztg" /></a> </p>
+I'm a passionate and experienced software engineer with a diverse background in various technologies and a strong entrepreneurial spirit. Currently based in the Isle of Man, I have a deep love for continuous learning, problem-solving, and building innovative solutions.
 
-- 💬 Ask me about **Golang, Python, Java**
+#### 🚀 Professional Background
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/morteza-taghizadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morteza-taghizadeh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/2802042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2802042" height="30" width="40" /></a>
-</p>
+I was the co-founder and Head of Engineering at Console startup, where I led the engineering team and worked with a wide range of technologies, including:
+- **Languages & Frameworks**: Go (Golang), Java, Kotlin, Python, C#, JavaScript, PHP, Shell Scripting
+- **Platforms & Tools**: Android Development, AWS, Linux, Docker, Kubernetes, Microservices
+- **Databases & Messaging**: MySQL, SQL Server, PostgreSQL, Redis, RabbitMQ, Firebase, ClickHouse, Elasticsearch
+- **Web & API Development**: React JS, REST API, GraphQL, gRPC, Swagger
+- **Automation & DevOps**: Selenium Automation, CI/CD, Task Automation
+- **Other**: Blockchain, Git/GitHub
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+I've actively worked on numerous projects since 2016, constantly expanding my skill set and expertise.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtztg&show_icons=true&locale=en&layout=compact" alt="mrtztg" /></p>
+#### 🌟 Open Source Contributions
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtztg&show_icons=true&locale=en" alt="mrtztg" /></p>
+- Maintainer at **Gorse**, a recommender system written in Golang.
+- Published various small scripts and utilities on my GitHub profile.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtztg&" alt="mrtztg" /></p>
+#### 🏆 Achievements
+
+- Secured 10th rank in Android development in Iran's national competition **Fanavard**.
+
+#### 🎓 Education & Certifications
+
+- **Bachelor Degree** in Mechanical Engineering.
+- **Certified ScrumMaster** from ScrumAlliance.
+- Preparing for an **AWS certification** exam soon.
+
+#### 🛠️ Skills
+
+- **Technical Skills**: Go, Java, Android Development, Linux/Server Administration, Python, MySQL, AWS, JavaScript, C#, Kotlin, React JS, Next.js, PHP, Shell Scripting, Web Development, RabbitMQ, Redis, Git/GitHub, Docker, Kubernetes, Microservices, Firebase, SQL Server, ClickHouse, PostgreSQL, REST API, GraphQL, Elasticsearch, Task Automation, gRPC, Selenium Automation, Blockchain, CI/CD, DevOps, Swagger
+- **Soft Skills**: Systems architecture design for small to medium-sized projects, leadership, entrepreneurship, continuous learning, book lover
+
+#### 🌱 Interests
+
+- Reading books
+- Walking alongside the beach or in nature
+- Traveling
+- Conducting research
+- Listening to podcasts
+
+#### 📫 Get in Touch
+
+- **LinkedIn**: [Morteza Taghizadeh](https://www.linkedin.com/in/morteza-taghizadeh/)
+
+Feel free to reach out to me for collaborations, discussions, or just to connect!
