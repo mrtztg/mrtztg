@@ -16,8 +16,8 @@ I've actively worked on numerous projects since 2016, constantly expanding my sk
 
 #### 📜 Certifications
 
-- **AWS Certified Solution Architect Associate**.
-- **Certified ScrumMaster** from ScrumAlliance.
+- **[AWS Certified Solution Architect Associate](https://www.credly.com/badges/70dbec32-afdc-4f28-a559-676d6124c657)**.
+- **[Certified ScrumMaster](https://bcert.me/bc/html/show-badge.html?b=jbodvegy)** from ScrumAlliance.
 
 #### 🌟 Open Source Contributions
 
