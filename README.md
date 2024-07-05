@@ -14,7 +14,7 @@ I was the co-founder and Head of Engineering at Console startup, where I led the
 
 I've actively worked on numerous projects since 2016, constantly expanding my skill set and expertise.
 
-### Certifications
+#### 📜 Certifications
 
 - **AWS Certified Solution Architect Associate**.
 - **Certified ScrumMaster** from ScrumAlliance.
