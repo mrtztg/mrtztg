@@ -6,11 +6,10 @@ I'm a passionate and experienced software engineer with a diverse background in 
 
 I was the co-founder and Head of Engineering at Console startup, where I led the engineering team and worked with a wide range of technologies, including:
 - **Languages & Frameworks**: Go (Golang), Java, Kotlin, Python, C#, JavaScript, PHP, Shell Scripting
-- **Platforms & Tools**: Android Development, AWS, Linux, Docker, Kubernetes, Microservices
-- **Databases & Messaging**: MySQL, SQL Server, PostgreSQL, Redis, RabbitMQ, Firebase, ClickHouse, Elasticsearch
+- **Platforms & Tools**: AWS, Android Development, Linux, Docker, Kubernetes, Microservices
+- **Databases & Messaging**: MySQL, PostgreSQL, Redis, RabbitMQ, Firebase, ClickHouse, Elasticsearch
 - **Web & API Development**: React JS, REST API, GraphQL, gRPC, Swagger
 - **Automation & DevOps**: Selenium Automation, CI/CD, Task Automation
-- **Other**: Blockchain, Git/GitHub
 
 I've actively worked on numerous projects since 2016, constantly expanding my skill set and expertise.
 
@@ -34,7 +33,7 @@ I've actively worked on numerous projects since 2016, constantly expanding my sk
 
 #### 🛠️ Skills
 
-- **Technical Skills**: Go, Java, AWS, Android Development, Linux/Server Administration, Python, MySQL, JavaScript, C#, Kotlin, React JS, Next.js, PHP, Shell Scripting, Web Development, RabbitMQ, Redis, Git/GitHub, Docker, Kubernetes, Microservices, Firebase, SQL Server, ClickHouse, PostgreSQL, REST API, GraphQL, Elasticsearch, Task Automation, gRPC, Selenium Automation, Blockchain, CI/CD, DevOps, Swagger
+- **Technical Skills**: Go, Java, AWS, Android Development, Linux/Server Administration, Python, MySQL, JavaScript, C#, Kotlin, React JS, PHP, Shell Scripting, Web Development, RabbitMQ, Redis, Git/GitHub, Docker, Kubernetes, Microservices, Firebase, SQL Server, ClickHouse, PostgreSQL, REST API, GraphQL, Elasticsearch, Task Automation, gRPC, Selenium Automation, Blockchain, CI/CD, DevOps, Swagger
 - **Soft Skills**: Systems architecture design for small to medium-sized projects, leadership, entrepreneurship, continuous learning, book lover
 
 #### 🌱 Interests
