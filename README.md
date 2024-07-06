@@ -10,6 +10,7 @@ I was the co-founder and Head of Engineering at Console startup, where I led the
 - **Databases & Messaging**: MySQL, PostgreSQL, Redis, RabbitMQ, Firebase, ClickHouse, Elasticsearch
 - **Web & API Development**: React JS, REST API, GraphQL, gRPC, Swagger
 - **Automation & DevOps**: Selenium Automation, CI/CD, Task Automation
+- **Other**: Cloud Computing, Git/Github
 
 I've actively worked on numerous projects since 2016, constantly expanding my skill set and expertise.
 
@@ -31,9 +32,8 @@ I've actively worked on numerous projects since 2016, constantly expanding my sk
 
 - **Bachelor Degree** in Mechanical Engineering.
 
-#### 🛠️ Skills
+#### 🛠️ Professional Skills
 
-- **Technical Skills**: Go, Java, AWS, Android Development, Linux/Server Administration, Python, MySQL, JavaScript, C#, Kotlin, React JS, PHP, Shell Scripting, Web Development, RabbitMQ, Redis, Git/GitHub, Docker, Kubernetes, Microservices, Firebase, SQL Server, ClickHouse, PostgreSQL, REST API, GraphQL, Elasticsearch, Task Automation, gRPC, Selenium Automation, Blockchain, CI/CD, DevOps, Swagger
 - **Soft Skills**: Systems architecture design for small to medium-sized projects, leadership, entrepreneurship, continuous learning, book lover
 
 #### 🌱 Interests
