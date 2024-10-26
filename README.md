@@ -18,7 +18,7 @@ I was the co-founder and Head of Engineering at Console startup, where I led the
 
 I've actively worked on numerous projects since 2016, constantly expanding my skill set and expertise.
 
-####  Online Presense
+#### 🌐 Online Presense
 
 - **Youtube Channel** : **[https://youtube.com/@launchcrafted](https://www.credly.com/badges/70dbec32-afdc-4f28-a559-676d6124c657)**.
   - *Documenting the complete product development journey, focusing on technical aspects such as tech stack selection, security, and more*
