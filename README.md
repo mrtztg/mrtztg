@@ -10,7 +10,7 @@ Based in the Isle of Man / UK, I am passionate about continuous learning, proble
 
 I was the co-founder and Head of Engineering at Console startup, where I led the engineering team and worked with a wide range of technologies, including:
 - **Languages & Frameworks**: Go (Golang), Java, Kotlin, Python, C#, JavaScript, PHP, Shell Scripting
-- **Platforms & Tools**: AWS, Android Development, Linux, Docker, Kubernetes, Microservices
+- **Platforms & Tools**: Kubernetes, AWS, Android Development, Linux, Docker, Microservices
 - **Databases & Messaging**: MySQL, PostgreSQL, Redis, RabbitMQ, Firebase, ClickHouse, Elasticsearch
 - **Web & API Development**: React JS, REST API, GraphQL, gRPC, Swagger
 - **Automation & DevOps**: Selenium Automation, CI/CD, Task Automation
@@ -26,6 +26,7 @@ I've actively worked on numerous projects since 2016, constantly expanding my sk
 
 #### 📜 Certifications
 
+- **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/26b00e98-3e72-4a81-81a3-b04d191fb78a/public_url)**.
 - **[AWS Certified Solution Architect Associate](https://www.credly.com/badges/70dbec32-afdc-4f28-a559-676d6124c657)**.
 - **[Certified ScrumMaster](https://bcert.me/bc/html/show-badge.html?b=jbodvegy)** from ScrumAlliance.
 
