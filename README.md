@@ -10,7 +10,7 @@ Based in the Isle of Man / UK, I am passionate about continuous learning, proble
 
 I was the co-founder and Head of Engineering at Console startup, where I led the engineering team and worked with a wide range of technologies, including:
 - **Languages & Frameworks**: Go (Golang), Java, Kotlin, Python, C#, JavaScript, PHP, Shell Scripting
-- **Platforms & Tools**: Kubernetes, AWS, Android Development, Linux, Docker, Microservices
+- **Platforms & Tools**: Kubernetes, AWS, Terraform, Android Development, Linux, Docker, Microservices
 - **Databases & Messaging**: MySQL, PostgreSQL, Redis, RabbitMQ, Firebase, ClickHouse, Elasticsearch
 - **Web & API Development**: React JS, REST API, GraphQL, gRPC, Swagger
 - **Automation & DevOps**: Selenium Automation, CI/CD, Task Automation
